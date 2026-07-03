@@ -1,5 +1,5 @@
- # Hello, I'm Rosada Amon
-### FULL STACK DEVELOPER
+ <img width="1789" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/c1abd316-3459-4fa6-b1f3-440e5f5633e5" />
+
 
 #  About Me:
 web-based systems<br>full-stack programming projects<br>backend programming<br>javascript and django framework<br>software solutions that solve real problems<br>I do enjoy ice cream,geeky convos and learning new stuff everytime<br>I love Spanish culture

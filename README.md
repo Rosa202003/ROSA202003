@@ -1,4 +1,6 @@
- Hi there 👋!
+ # Hello, I'm Rosada Amon
+### FULL STACK DEVELOPER
+
 #  About Me:
 web-based systems<br>full-stack programming projects<br>backend programming<br>javascript and django framework<br>software solutions that solve real problems<br>I do enjoy ice cream,geeky convos and learning new stuff everytime<br>I love Spanish culture
 

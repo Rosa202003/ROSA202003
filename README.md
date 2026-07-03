@@ -20,3 +20,6 @@ web-based systems<br>full-stack programming projects<br>backend programming<br>j
 ![](https://github-contributor-stats.vercel.app/api?username=rosa202003&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rosa202003&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
